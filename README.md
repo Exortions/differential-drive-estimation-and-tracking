@@ -1,12 +1,4 @@
-# RAMSETE and Monte Carlo Localization for Differential Drive Robots
-
-Two papers on how a competition robot works out where it is and follows a path, from my work in robotics.
-
-## The Desmos notebook
-
-[RAMSETE and Monte Carlo Localization for Differential Drive Robots](https://www.desmos.com/notebook/ywwtvgi0vh/view) is a paper I wrote myself in Desmos.
-
-## The full paper
+# Asynchronous State Estimation and Lyapunov-Constrained Predictive Tracking for a Voltage-Limited Differential-Drive Robot
 
 [Asynchronous State Estimation and Lyapunov-Constrained Predictive Tracking for a Voltage-Limited Differential-Drive Robot](asynchronous-state-estimation-and-lyapunov-constrained-predictive-tracking-for-a-voltage-limited-differential-drive-robot.pdf) (PDF, 35 pages)
 
